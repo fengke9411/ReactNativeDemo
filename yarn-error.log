@@ -1,0 +1,27 @@
+Arguments: 
+  D:\DevSoft\ReactNativeDev\nodejs\node.exe C:\Users\dell\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add react-native --exact
+
+PATH: 
+  C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;D:\DevSoft\SVN\bin;D:\DevSoft\AndroidDev\sdk\platform-tools;C:\Program Files\Java\jdk1.7.0_80\bin;C:\ProgramData\chocolatey\bin;D:\DevSoft\ReactNativeDev\nodejs\;C:\Users\dell\AppData\Roaming\npm;D:\DevSoft\gradle-2.14-all\gradle-2.14/bin;C:\Program Files\apache-maven-3.3.9/bin
+
+Yarn version: 
+  0.17.2
+
+Node version: 
+  7.1.0
+
+Platform: 
+  win32 x64
+
+npm manifest: 
+  {"name":"test2","version":"0.0.1","private":true,"scripts":{"start":"node node_modules/react-native/local-cli/cli.js start"}}
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: https://registry.yarnpkg.com/expand-brackets: unexpected end of file
+      at Zlib._handle.onerror (zlib.js:355:17)
